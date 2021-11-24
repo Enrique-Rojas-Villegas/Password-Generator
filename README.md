@@ -22,3 +22,20 @@ The included characters in the WebPage are:
 10. If user changes tabs he will have to re-do the process.
 
 11. Console logs for the fucntions are in the JS code, to read in console to know if the input by the user is TRUE or FALSE. 
+
+With this activity I got to study the concepts seen in class, this always helps to build on what you get taught. I found myself researching
+in videos, or google, to understand a method or property better. Sometimes I had to rewatch the online session to better understand this concepts. Definitely not a 1 or 2 hour homework for a beginner in Javascript. 
+
+This was a great assignment to test our logic, and believe me I wrote more code than this, that in the end I ended up changing or deleting. 
+
+12. What does it solve?
+Its a very basic password generator, but it sure gets the job done. It can improve with external libraries, better CSS and more buttons, to be more friendly with the user. I´m thinking of adding a COPY button for the user, and buttons for the options instead of prompts to make it easier for people. 
+
+
+13. SCREENSHOTS
+
+![Initial Prompt to enter amount of characters](images/SS1.jpg)
+![If user allows UpperCase in confirm prompt](images/SS2.jpg)
+![If user allows numbers in confirm prompt](images/SS3.jpg)
+![If user allows Special Characters in confirm prompt](images/SS4.jpg)
+![Final Password choosing all of the prompted criteria](images/SS5.jpg)
