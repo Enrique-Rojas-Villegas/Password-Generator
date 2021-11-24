@@ -32,7 +32,7 @@ This was a great assignment to test our logic, and believe me I wrote more code 
 Its a very basic password generator, but it sure gets the job done. It can improve with external libraries, better CSS and more buttons, to be more friendly with the user. I´m thinking of adding a COPY button for the user, and buttons for the options instead of prompts to make it easier for people. 
 
 
-13. SCREENSHOTS
+13. SCREENSHOTS.
 
 ![Initial Prompt to enter amount of characters](images/SS1.jpg)
 ![If user allows UpperCase in confirm prompt](images/SS2.jpg)
