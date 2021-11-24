@@ -34,6 +34,8 @@ Its a very basic password generator, but it sure gets the job done. It can impro
 
 13. SCREENSHOTS.
 
+If you cant view the ScreenShots, there is a folder called images, where you can view the working app! :D
+
 ![Initial Prompt to enter amount of characters](images/SS1.jpg)
 ![If user allows UpperCase in confirm prompt](images/SS2.jpg)
 ![If user allows numbers in confirm prompt](images/SS3.jpg)
